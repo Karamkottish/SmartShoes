@@ -1,0 +1,59 @@
+---
+name: smart_shoes
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  percent_indicator: ^4.2.2
+  fl_chart: ^0.63.0
+  image_picker: ^1.0.2
+  path_provider: ^2.0.11
+  sqflite: ^2.0.3+1
+  shared_preferences: ^2.0.15
+  cloud_firestore: ^4.3.1
+  firebase_auth: ^4.2.5
+  flutter_riverpod: ^2.3.7
+  freezed_annotation: ^2.2.0
+  json_annotation: ^4.7.0
+  flutter_screenutil: ^5.6.0
+  fluttertoast: ^8.1.2
+  connectivity_plus: ^4.0.2
+  flutter_reactive_ble: ^5.0.3
+  permission_handler: ^10.2.0
+  riverpod_generator: ^2.2.6
+  riverpod_lint: ^2.0.1
+  custom_lint: ^0.5.2
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.3.3
+  freezed: ^2.3.2
+  json_serializable: ^6.5.4
+
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/
+  fonts:
+  - family: SegoeUI
+    fonts:
+    - asset: assets/fonts/Roboto-Bold.ttf
+      weight: 700
+    - asset: assets/fonts/Roboto-Medium.ttf
+      weight: 500
+    - asset: assets/fonts/Roboto-Regular.ttf
+      weight: 400
+    - asset: assets/fonts/Roboto-Italic.ttf
+      style: italic
+
+
