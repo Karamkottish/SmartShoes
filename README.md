@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # smart_shoes
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# SmartShoes
+>>>>>>> c54f8e2b8b45871433fd5271901703be275149cb
